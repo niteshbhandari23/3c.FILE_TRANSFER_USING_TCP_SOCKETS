@@ -73,7 +73,7 @@ while True:
 
 -- with files (output):
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f172a56-1c4d-4b39-b780-02ece2cdbfca" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
